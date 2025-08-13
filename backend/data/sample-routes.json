@@ -1,0 +1,92 @@
+[
+  {
+    "routeId": "RT001",
+    "name": "Delhi to Gurgaon",
+    "distanceKm": 30,
+    "trafficLevel": "High",
+    "baseTimeMinutes": 90,
+    "startLocation": "Connaught Place, Delhi",
+    "endLocation": "Cyber City, Gurgaon"
+  },
+  {
+    "routeId": "RT002",
+    "name": "Mumbai to Pune",
+    "distanceKm": 150,
+    "trafficLevel": "Medium",
+    "baseTimeMinutes": 180,
+    "startLocation": "Bandra, Mumbai",
+    "endLocation": "Pune Station, Pune"
+  },
+  {
+    "routeId": "RT003",
+    "name": "Bangalore to Mysore",
+    "distanceKm": 145,
+    "trafficLevel": "Low",
+    "baseTimeMinutes": 200,
+    "startLocation": "Electronic City, Bangalore",
+    "endLocation": "Mysore Palace, Mysore"
+  },
+  {
+    "routeId": "RT004",
+    "name": "Chennai to Pondicherry",
+    "distanceKm": 160,
+    "trafficLevel": "Medium",
+    "baseTimeMinutes": 240,
+    "startLocation": "T. Nagar, Chennai",
+    "endLocation": "French Quarter, Pondicherry"
+  },
+  {
+    "routeId": "RT005",
+    "name": "Hyderabad to Warangal",
+    "distanceKm": 150,
+    "trafficLevel": "Low",
+    "baseTimeMinutes": 210,
+    "startLocation": "HITEC City, Hyderabad",
+    "endLocation": "Warangal Fort, Warangal"
+  },
+  {
+    "routeId": "RT006",
+    "name": "Kolkata to Durgapur",
+    "distanceKm": 165,
+    "trafficLevel": "High",
+    "baseTimeMinutes": 300,
+    "startLocation": "Salt Lake, Kolkata",
+    "endLocation": "City Center, Durgapur"
+  },
+  {
+    "routeId": "RT007",
+    "name": "Ahmedabad to Vadodara",
+    "distanceKm": 110,
+    "trafficLevel": "Medium",
+    "baseTimeMinutes": 150,
+    "startLocation": "Satellite, Ahmedabad",
+    "endLocation": "Sayajigunj, Vadodara"
+  },
+  {
+    "routeId": "RT008",
+    "name": "Jaipur to Jodhpur",
+    "distanceKm": 340,
+    "trafficLevel": "Low",
+    "baseTimeMinutes": 420,
+    "startLocation": "Pink City, Jaipur",
+    "endLocation": "Blue City, Jodhpur"
+  },
+  {
+    "routeId": "RT009",
+    "name": "Noida to Faridabad",
+    "distanceKm": 85,
+    "trafficLevel": "High",
+    "baseTimeMinutes": 180,
+    "startLocation": "Sector 18, Noida",
+    "endLocation": "NIT, Faridabad"
+  },
+  {
+    "routeId": "RT010",
+    "name": "Lucknow to Kanpur",
+    "distanceKm": 80,
+    "trafficLevel": "Medium",
+    "baseTimeMinutes": 120,
+    "startLocation": "Hazratganj, Lucknow",
+    "endLocation": "Mall Road, Kanpur"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Rajesh Kumar",
+    "employeeId": "DRV001",
+    "currentShiftHours": 4,
+    "past7DayWorkHours": 42,
+    "licenseNumber": "DL123456789",
+    "phone": "+91 9876543210",
+    "isAvailable": true
+  },
+  {
+    "name": "Amit Sharma",
+    "employeeId": "DRV002",
+    "currentShiftHours": 6,
+    "past7DayWorkHours": 38,
+    "licenseNumber": "DL987654321",
+    "phone": "+91 9876543211",
+    "isAvailable": true
+  },
+  {
+    "name": "Suresh Patel",
+    "employeeId": "DRV003",
+    "currentShiftHours": 2,
+    "past7DayWorkHours": 35,
+    "licenseNumber": "DL555666777",
+    "phone": "+91 9876543212",
+    "isAvailable": true
+  },
+  {
+    "name": "Vikram Singh",
+    "employeeId": "DRV004",
+    "currentShiftHours": 8,
+    "past7DayWorkHours": 48,
+    "licenseNumber": "DL111222333",
+    "phone": "+91 9876543213",
+    "isAvailable": false
+  },
+  {
+    "name": "Manoj Gupta",
+    "employeeId": "DRV005",
+    "currentShiftHours": 3,
+    "past7DayWorkHours": 28,
+    "licenseNumber": "DL444555666",
+    "phone": "+91 9876543214",
+    "isAvailable": true
+  },
+  {
+    "name": "Ravi Verma",
+    "employeeId": "DRV006",
+    "currentShiftHours": 5,
+    "past7DayWorkHours": 40,
+    "licenseNumber": "DL777888999",
+    "phone": "+91 9876543215",
+    "isAvailable": true
+  },
+  {
+    "name": "Deepak Yadav",
+    "employeeId": "DRV007",
+    "currentShiftHours": 1,
+    "past7DayWorkHours": 32,
+    "licenseNumber": "DL000111222",
+    "phone": "+91 9876543216",
+    "isAvailable": true
+  },
+  {
+    "name": "Santosh Kumar",
+    "employeeId": "DRV008",
+    "currentShiftHours": 7,
+    "past7DayWorkHours": 45,
+    "licenseNumber": "DL333444555",
+    "phone": "+91 9876543217",
+    "isAvailable": true
+  }
+]
