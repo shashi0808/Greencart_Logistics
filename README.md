@@ -404,7 +404,7 @@ npm run test:coverage
 Update these for production:
 ```env
 NODE_ENV=production
-MONGODB_URI=mongodb+srv://user:pass@cluster.mongodb.net/greencart_logistics
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/<dbname>
 JWT_SECRET=production-secret-key-256-bits
 FRONTEND_URL=https://your-frontend-domain.com
 ```
