@@ -53,3 +53,4 @@ app.listen(PORT, () => {
 });
 
 module.exports = app;
+app.get("/", (req, res) = res.json({ success: true, message: "API is live!" }); });
