@@ -16,10 +16,25 @@ const app = express();
 // Middlewares
 app.use(helmet());
 app.use(morgan('combined'));
+
+// CORS setup
+const allowedOrigins = [
+  'http://localhost:3000',
+  'https://greencart-logistics-shashi.vercel.app'
+];
+
 app.use(cors({
-  origin: process.env.FRONTEND_URL || 'http://localhost:3000',
+  origin: function(origin, callback) {
+    if (!origin) return callback(null, true); // Postman / curl ke liye
+    if (allowedOrigins.indexOf(origin) === -1) {
+      const msg = 'CORS policy not allowed for this origin';
+      return callback(new Error(msg), false);
+    }
+    return callback(null, true);
+  },
   credentials: true
 }));
+
 app.use(express.json());
 
 // Root route
